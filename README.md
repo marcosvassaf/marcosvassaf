@@ -70,8 +70,7 @@ Sou apaixonado por tecnologia e pelo poder da automação em transformar process
 📞 **Telefone:** (11) 99785-4672  
 📍 **Endereço:** R. Dona Ana Neri, Mooca - São Paulo/SP  
 
-💼 **LinkedIn:** [Seu LinkedIn aqui](#)  
-🌐 **VLINK:** [Instagram da VLINK](https://instagram.com/vlink.ag)
+💼 **LinkedIn:** marcosassaf (#)  
 
 ---
 
