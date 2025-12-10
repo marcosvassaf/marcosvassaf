@@ -4,8 +4,6 @@
 
 Sou apaixonado por tecnologia e pelo poder da automação em transformar processos e negócios. Tenho experiência com **análise de dados, desenvolvimento de sistemas, dashboards em Power BI** e **integrações inteligentes com IA**.  
 
-Atualmente sou **fundador da VLINK**, uma empresa focada em soluções digitais — desde **criação de sites** e **sistemas personalizados**, até **automação de processos** e **estratégias digitais completas**.
-
 ---
 
 ## 💼 Experiência Profissional
