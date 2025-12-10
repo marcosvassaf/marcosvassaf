@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Marcos Vinicius Arnold Assaf
 
-🎯 **Analista de Dados | Desenvolvedor | Fundador da VLINK**
+🎯 **Analista de Dados | Desenvolvedor 
 
 Sou apaixonado por tecnologia e pelo poder da automação em transformar processos e negócios. Tenho experiência com **análise de dados, desenvolvimento de sistemas, dashboards em Power BI** e **integrações inteligentes com IA**.  
 
